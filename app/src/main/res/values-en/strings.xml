@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="B1">Generation 1</string>
+    <string name="B2">Generation 2</string>
+    <string name="B3">Generation 3</string>
+    <string name="Toast">Generation 3 not available</string>
+    <string name="Notif">Charmander</string>
+    <string name="Dialog">Bulbasaur</string>
+    <string name="mnitem">More</string>
+    <string name="brcast">Download Finish</string>
+    <string name="Notiftxt">Notif</string>
+    <string name="Dialogtxt">Dialog</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="B1">Génération 1</string>
+    <string name="B2">Génération 2</string>
+    <string name="B3">Génération 3</string>
+    <string name="Toast">Génération 3 pas encore disponible</string>
+    <string name="Notif">Salamèche</string>
+    <string name="Dialog">Bulbizzare</string>
+    <string name="mnitem">En savoir plus</string>
+    <string name="brcast">Telechargement Terminé</string>
+    <string name="Notiftxt">Notif</string>
+    <string name="Dialogtxt">Dialog</string>
+
+
+</resources>
